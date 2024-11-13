@@ -78,7 +78,7 @@
         <header class="header">
             <h1>AgroTech</h1>
             <p class="welcome-text">
-                Descubra o futuro da agricultura sustentável! Nossa plataforma une tecnologia e 
+                Descubra o futuro da aaaaaaaaa sustentável! Nossa plataforma une tecnologia e 
                 práticas eco-friendly para transformar sua produção agrícola.<br>
                 Maximize seus resultados enquanto preserva o meio ambiente! teste
             </p>
