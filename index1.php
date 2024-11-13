@@ -80,7 +80,7 @@
             <p class="welcome-text">
                 Descubra o futuro da agricultura sustentável! Nossa plataforma une tecnologia e 
                 práticas eco-friendly para transformar sua produção agrícola.<br>
-                Maximize seus resultados enquanto preserva o meio ambiente!
+                Maximize seus resultados enquanto preserva o meio ambiente! 
             </p>
         </header>
 
